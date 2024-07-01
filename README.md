@@ -27,7 +27,7 @@ To get started with the AI-Powered UI Application, follow these steps:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-username/ai-powered-ui-application.git
+   git clone https://github.com/AryanGupta1211/Gemini-App.git
 
 2. **Install the required dependencies**:
    ```sh
